@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-image: url(../images/SAVAS-3.jpg);
+  height: 100vh;
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+#contact .war {
+  margin: 0.8rem 6px;
+  color: yellow;
+  font-size: 50px;
+}
+
+#contact .left {
+  background-image: url(../images/22.jpg);
+  height: 600px;
+  width: 85%;
+  background-size: cover;
+  background-position: top;
+}
+
+#contact .right {
+  margin-top: 2.5rem;
+  padding-left: 2rem;
+  margin-left: 1.5rem;
+}
+
+#contact .address {
+  font-style: inherit;
+}
+
+#contact .address a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+
+#contact .address span {
+  font-size: 18px;
+  color: white;
+}
+
+#contact form input {
+  display: block;
+  width: 60%;
+  margin: 1rem 0;
+  font-size: 25px;
+  background-color: #00eeff;
+  color: #ebeb0c;
+}
+
+#contact .under {
+  padding-top: 8rem;
+}
+
+#contact .under h2 {
+  font-size: 35px;
+  padding-left: 1.5rem;
+  color: navy;
+  width: 70%;
+  font-weight: bolder;
+}
+
+#contact .under p {
+  font-size: 35px;
+  color: #380101;
+  padding-left: 2.6rem;
+  font-weight: bolder;
+}
+/*# sourceMappingURL=lesson-11.css.map */
